@@ -7,12 +7,12 @@ const baseUrl = 'https://raw.githubusercontent.com/jvsouza/Apriso-Academy/main/j
 //const baseUrl = 'http://localhost/Apriso-Academy/json/';
 const coursesUpdated = {
     "courses_updated":[
-        { "file_json":"fund_0", "course_unit":"00 - Getting Started" },
-        { "file_json":"fund_1", "course_unit":"01 - Task and Time Management" },
-        { "file_json":"fund_2", "course_unit":"02 - Configuration" },
-        { "file_json":"fund_3", "course_unit":"03 - Functional Configuration" },
-        { "file_json":"fund_4", "course_unit":"04 - Best Practices" },
-        { "file_json":"fund_5", "course_unit":"05 - Design to Build Handover" }
+        {"file_json":"fund_0", "course_unit":"FND0 - Getting Started"},
+        {"file_json":"fund_1", "course_unit":"FND1 - Task and Time"},
+        {"file_json":"fund_2", "course_unit":"FND2 - Configuration"},
+        {"file_json":"fund_3", "course_unit":"FND3 - Functional Configuration"},
+        {"file_json":"fund_4", "course_unit":"FND4 - Best Practices"},
+        {"file_json":"fund_5", "course_unit":"FND5 - Design to Build"}
     ]
 };
 

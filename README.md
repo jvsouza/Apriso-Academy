@@ -1,5 +1,5 @@
 # Apriso-Academy
-![Progress](https://progress-bar.dev/1/?title=Completed%20&width=160&color=54aeff)
+![Progress](https://progress-bar.dev/60/?title=Completed%20&width=160&color=54aeff)
 
 ## Collection of test prep study questions for Academy Quintiq certification - DELMIA Apriso.
 > As specified by Academy Quintiq, the Delmia Apriso product features a set of certificates that can be obtained through examination.
