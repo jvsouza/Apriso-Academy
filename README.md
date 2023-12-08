@@ -1,5 +1,5 @@
 # Apriso-Academy
-![Progress](https://progress-bar.dev/60/?title=Completed%20&width=160&color=54aeff)
+![Progress](https://progress-bar.dev/100/?title=Completed%20&width=160&color=54aeff)
 
 ## Collection of test prep study questions for Academy Quintiq certification - DELMIA Apriso.
 > As specified by Academy Quintiq, the Delmia Apriso product features a set of certificates that can be obtained through examination.
@@ -7,16 +7,21 @@
 ## For each exam studied on the Academy Quintiq portal, I store the relevant questions in `.json` files. Below the list of `.json` filesin context DELMIA Apriso:
 | Level | Index | Progress | Contet | Duration |
 | :--: | :---: | :------: | :----- | :------: |
-| 1 | CONS-FUND-000 | ![](https://img.shields.io/badge/-Done-success) | Solution Consultant Certification: Getting Started | 30 mins |
+| 1 | CONS-FUND-000 | ![](https://img.shields.io/badge/-Done-success) | Getting Started | 30 mins |
 | 1 | CONS-FUND-001 | ![](https://img.shields.io/badge/-Done-success) | Task and Time Management | 45 mins |
 | 1 | CONS-FUND-002 | ![](https://img.shields.io/badge/-Done-success) | Configuration | 45 mins |
 | 1 | CONS-FUND-003 | ![](https://img.shields.io/badge/-Done-success) | Functional Configuration | 45 mins | 
 | 1 | CONS-FUND-004 | ![](https://img.shields.io/badge/-Done-success) | Best Practices | 45 mins |
 | 1 | CONS-FUND-005 | ![](https://img.shields.io/badge/-Done-success) | Design to Build Handover | 45 mins |
-| 2 | CONS-PRO-001 | ![](https://img.shields.io/badge/-Doing-important) | Project Lead Management | 45 mins |
-| 2 | CONS-PRO-002 | ![](https://img.shields.io/badge/-ToDo-inactive) | Quality Assurance | 45 mins |
-| 2 | CONS-PRO-003 | ![](https://img.shields.io/badge/-ToDo-inactive) | Project Methodology | 45 mins |
-| 2 | CONS-PRO-004 | ![](https://img.shields.io/badge/-ToDo-inactive) | Advanced Functional Configuration | 45 mins |
+| 2 | CONS-PROF-001 | ![](https://img.shields.io/badge/-Done-success) | Project Lead Management | 45 mins |
+| 2 | CONS-PROF-002 | ![](https://img.shields.io/badge/-Done-success) | Quality Assurance | 45 mins |
+| 2 | CONS-PROF-003 | ![](https://img.shields.io/badge/-Done-success) | Project Methodology | 45 mins |
+| 1 | ARCH-FUND-000 | ![](https://img.shields.io/badge/-Done-success) | Getting Started | 30 mins |
+| 1 | ARCH-FUND-001 | ![](https://img.shields.io/badge/-Done-success) | Capabilities | 45 mins |
+| 1 | ARCH-FUND-002 | ![](https://img.shields.io/badge/-Done-success) | Standard MOM Design Creation | 45 mins |
+| 2 | ARCH-PROF-001 | ![](https://img.shields.io/badge/-Done-success) | Test Strategy | 30 mins |
+| 2 | ARCH-PROF-002 | ![](https://img.shields.io/badge/-Done-success) | Bugs and CR Management | 45 mins |
+| 2 | ARCH-PROF-003 | ![](https://img.shields.io/badge/-Done-success) | Functional Business Requirements & Business Workshop | 45 mins |
 
 ## For that, I'm storing studied questions in this collection. As webpage struct bellow:
 ```text
@@ -35,16 +40,21 @@ page
 │   ├── bootstrap.min.js.map
 │   └── jquery.min.py
 ├── json
-│   ├── fund_0.json (solution)
-│   ├── fund_1.json (tasktime)
-│   ├── fund_2.json (configuration)
-│   ├── fund_3.json (functional)
-│   ├── fund_4.json (bestpractices)
-│   ├── fund_5.json (design)
-│   ├── prod_1.json (project)
-│   ├── prod_2.json (quality)
-│   ├── prod_3.json (methodology)
-│   └── prod_4.json (advanced)
+│   ├── c_fund_0.json (gettingStarted)
+│   ├── c_fund_1.json (tasktime)
+│   ├── c_fund_2.json (configuration)
+│   ├── c_fund_3.json (functional)
+│   ├── c_fund_4.json (bestpractices)
+│   ├── c_fund_5.json (design)
+│   ├── c_prof_1.json (project)
+│   ├── c_prof_2.json (quality)
+│   ├── c_prof_3.json (methodology)
+│   ├── a_fund_0.json (gettingStarted)
+│   ├── a_fund_1.json (capabilities)
+│   ├── a_fund_2.json (standardMOM)
+│   ├── a_prof_1.json (functional)
+│   ├── a_prof_2.json (bugsAndCR)
+│   └── a_prof_3.json (businessRequirements)
 ├── encrypt.html
 ├── favicon.png
 ├── index.html

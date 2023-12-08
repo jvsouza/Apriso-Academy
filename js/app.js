@@ -7,12 +7,25 @@ const baseUrl = 'https://raw.githubusercontent.com/jvsouza/Apriso-Academy/main/j
 //const baseUrl = 'http://localhost/Apriso-Academy/json/';
 const coursesUpdated = {
     "courses_updated":[
-        {"file_json":"fund_0", "course_unit":"FND0 - Getting Started"},
-        {"file_json":"fund_1", "course_unit":"FND1 - Task and Time"},
-        {"file_json":"fund_2", "course_unit":"FND2 - Configuration"},
-        {"file_json":"fund_3", "course_unit":"FND3 - Functional Configuration"},
-        {"file_json":"fund_4", "course_unit":"FND4 - Best Practices"},
-        {"file_json":"fund_5", "course_unit":"FND5 - Design to Build"}
+        {"file_json":"c_fund_0", "course_unit":"CFND0 - Getting Started"},
+        {"file_json":"c_fund_1", "course_unit":"CFND1 - Task and Time"},
+        {"file_json":"c_fund_2", "course_unit":"CFND2 - Configuration"},
+        {"file_json":"c_fund_3", "course_unit":"CFND3 - Functional Configuration"},
+        {"file_json":"c_fund_4", "course_unit":"CFND4 - Best Practices"},
+        {"file_json":"c_fund_5", "course_unit":"CFND5 - Design to Build"},
+
+        {"file_json":"c_prof_1", "course_unit":"CPRO1 - Project Lead Management"},
+        {"file_json":"c_prof_2", "course_unit":"CPRO2 - Quality Assurance"},
+        {"file_json":"c_prof_3", "course_unit":"CPRO3 - Project Methodology"},
+
+        {"file_json":"a_fund_0", "course_unit":"AFND0 - Getting Started"},
+        {"file_json":"a_fund_1", "course_unit":"AFND1 - Capabilities"},
+        {"file_json":"a_fund_2", "course_unit":"AFND2 - Standard MOM Design Creation"},
+
+        {"file_json":"a_prof_1", "course_unit":"APRO1 - Test Strategy"},
+        {"file_json":"a_prof_2", "course_unit":"APRO2 - Bugs and CR Management"},
+        {"file_json":"a_prof_3", "course_unit":"APRO3 - Functional Business Requirements & Business Workshops"}
+
     ]
 };
 
