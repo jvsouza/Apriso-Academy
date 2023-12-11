@@ -1,5 +1,5 @@
 # Apriso-Academy
-![Progress](https://progress-bar.dev/100/?title=Completed%20&width=160&color=54aeff)
+![Progress](https://progress-bar.dev/88/?title=Completed%20&width=160&color=54aeff)
 
 ## Collection of test prep study questions for Academy Quintiq certification - DELMIA Apriso.
 > As specified by Academy Quintiq, the Delmia Apriso product features a set of certificates that can be obtained through examination.
@@ -16,12 +16,14 @@
 | 2 | CONS-PROF-001 | ![](https://img.shields.io/badge/-Done-success) | Project Lead Management | 45 mins |
 | 2 | CONS-PROF-002 | ![](https://img.shields.io/badge/-Done-success) | Quality Assurance | 45 mins |
 | 2 | CONS-PROF-003 | ![](https://img.shields.io/badge/-Done-success) | Project Methodology | 45 mins |
+| 2 | CONS-PROF-004 | ![](https://img.shields.io/badge/-Doing-important) | Advanced Functional Configuration | 120 mins |
 | 1 | ARCH-FUND-000 | ![](https://img.shields.io/badge/-Done-success) | Getting Started | 30 mins |
 | 1 | ARCH-FUND-001 | ![](https://img.shields.io/badge/-Done-success) | Capabilities | 45 mins |
 | 1 | ARCH-FUND-002 | ![](https://img.shields.io/badge/-Done-success) | Standard MOM Design Creation | 45 mins |
 | 2 | ARCH-PROF-001 | ![](https://img.shields.io/badge/-Done-success) | Test Strategy | 30 mins |
 | 2 | ARCH-PROF-002 | ![](https://img.shields.io/badge/-Done-success) | Bugs and CR Management | 45 mins |
 | 2 | ARCH-PROF-003 | ![](https://img.shields.io/badge/-Done-success) | Functional Business Requirements & Business Workshop | 45 mins |
+| 2 | ARCH-PROF-004 | ![](https://img.shields.io/badge/-Doing-important) | Scoping and Sizing | 60 mins |
 
 ## For that, I'm storing studied questions in this collection. As webpage struct bellow:
 ```text
@@ -49,12 +51,14 @@ page
 │   ├── c_prof_1.json (project)
 │   ├── c_prof_2.json (quality)
 │   ├── c_prof_3.json (methodology)
+│   ├── c_prof_4.json (project)
 │   ├── a_fund_0.json (gettingStarted)
 │   ├── a_fund_1.json (capabilities)
 │   ├── a_fund_2.json (standardMOM)
 │   ├── a_prof_1.json (functional)
 │   ├── a_prof_2.json (bugsAndCR)
-│   └── a_prof_3.json (businessRequirements)
+│   ├── a_prof_3.json (businessRequirements)
+│   └── a_prof_4.json (project)
 ├── encrypt.html
 ├── favicon.png
 ├── index.html
